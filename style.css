@@ -1,0 +1,16 @@
+.quote-placeholder{
+    width: 400px;
+    height: inherit;
+    background-color:rebeccapurple ;
+    color: rgb(223, 215, 215);
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 5px rgb(211, 198, 198)
+}
+
+body{
+    height:100vh;
+    display: grid;
+    place-items: center;
+}
